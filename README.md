@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pink Themed Website</title>
+    <title>My love</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,12 +55,12 @@
         <h1>Hey pookie, welcome to my website</h1>
     </header>
 
-  <main>
+<main>
         <p>click below for a surprise</p>
-        <button onclick="alert('I love you, my sweet boy. In your arms, time disappears, and with every touch, you make me feel like home. Your love lingers on my skin, even when you're not here.')">Click Me!</button>
-    </main>
+        <button onclick="alert('I love you, my sweet boy. In your arms, time disappears, and with every touch, you make me feel like home. Your love lingers on my skin, even when              you're not here.')">Click Me!</button>
+</main>
 
-   <footer>
+<footer>
         <p>&copy; if ur not Aman reading this kindly fuck off</p>
     </footer>
 </body>
