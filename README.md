@@ -57,12 +57,12 @@
 
 <main>
         <p>click below for a surprise</p>
-        <button onclick="alert('I love you, my sweet boy. In your arms, time disappears, and with every touch, you make me feel like home. Your love lingers on my skin, even when              you're not here.')">Click Me!</button>
+        <button onclick="alert('I love you, my sweet boy. In your arms, time disappears, and with every touch, you make me feel like home. Your love lingers on my skin, even when              you're not here.')>Click Me!</button>
 </main>
 
 <footer>
         <p>&copy; if ur not Aman reading this kindly fuck off</p>
-    </footer>
+    </footer> 
 </body>
 </html>
 
